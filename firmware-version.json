@@ -1,0 +1,4 @@
+   `firmware-version.json`:
+   ```json
+   { "version": "1.0.0", "url": "https://github.com/<owner>/<repo>/releases/download/v1.0.0/firmware.bin" }
+   ```
