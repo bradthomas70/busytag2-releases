@@ -1,0 +1,4 @@
+   `tray-version.json`:
+   ```json
+   { "version": "1.0.0", "url": "https://github.com/<owner>/<repo>/releases/download/tray-v1.0.0/BusyTagTray.exe" }
+   ```
